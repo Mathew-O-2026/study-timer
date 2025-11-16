@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <title>Study Timer</title>
   <link rel="stylesheet" href="style.css">
@@ -7,13 +7,17 @@
 <body>
   <h1>Study Timer</h1>
 
+  <!-- Accessibility: Added label + linked with "for" and "id" -->
+  <label for="minutesInput">Enter minutes:</label>
   <input id="minutesInput" type="number" placeholder="Minutes">
 
-  <button id="startBtn">Start</button>
-  <button id="pauseBtn">Pause</button>
-  <button id="resetBtn">Reset</button>
+  <!-- Accessibility: Added aria-labels -->
+  <button id="startBtn" aria-label="Start the timer">Start</button>
+  <button id="pauseBtn" aria-label="Pause the timer">Pause</button>
+  <button id="resetBtn" aria-label="Reset the timer">Reset</button>
 
-  <h2 id="display">00:00</h2>
+  <!-- Accessibility: aria-live so screen readers announce countdown -->
+  <h2 id="display" aria-live="polite">00:00</h2>
 
   <script src="script.js"></script>
 </body>
