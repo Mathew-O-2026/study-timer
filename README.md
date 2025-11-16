@@ -25,7 +25,6 @@ This is a simple study timer made with HTML, CSS, and JavaScript. It lets you en
 2. Type how many minutes you want  
 3. Click **Start**  
 4. Click **Pause** to pause and **Start** again to resume  
-5. Add a file named `alarm.mp3` to the folder for the sound
 
 ---
 
