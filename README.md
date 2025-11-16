@@ -21,7 +21,7 @@ This is a simple study timer made with HTML, CSS, and JavaScript. It lets you en
 ---
 
 ## How to Use
-1. Open `index.html` in your browser  
+1. Open 'https://mathew-o-2026.github.io/study-timer/' in your browser  
 2. Type how many minutes you want  
 3. Click **Start**  
 4. Click **Pause** to pause and **Start** again to resume  
