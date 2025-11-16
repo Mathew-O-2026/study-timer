@@ -33,8 +33,3 @@ This is a simple study timer made with HTML, CSS, and JavaScript. It lets you en
 - HTML  
 - CSS  
 - JavaScript  
-
----
-
-## What This Project Shows
-This project shows planning, accessibility, and using GitHub for version control.
