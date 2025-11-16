@@ -36,5 +36,5 @@ This is a simple study timer made with HTML, CSS, and JavaScript. It lets you en
 
 ---
 
-## ✔️ What This Project Shows
+## What This Project Shows
 This project shows planning, accessibility, and using GitHub for version control.
