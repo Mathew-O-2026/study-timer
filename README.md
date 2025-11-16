@@ -7,7 +7,6 @@ This is a simple study timer made with HTML, CSS, and JavaScript. It lets you en
 ## Features
 - Start, pause, and reset the timer  
 - Progress bar that fills up as time runs out  
-- Sound plays when the timer finishes  
 - Dark mode button  
 - Timer does NOT restart when paused
 
