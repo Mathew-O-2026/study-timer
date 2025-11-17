@@ -1,6 +1,6 @@
 # Study Timer
 
-This is a simple study timer made with HTML, CSS, and JavaScript. It lets you enter a number of minutes and count down while you work. You can start, pause, and reset the timer at any time.
+It lets you enter a number of minutes and count down while you work. You can start, pause, and reset the timer at any time.
 
 ---
 
